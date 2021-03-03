@@ -1,5 +1,10 @@
 # Ownpet App
-![banner1](https://github.com/Leviaran/ownpetapp/blob/main/banner1.jpg) ![banner2](https://github.com/Leviaran/ownpetapp/blob/main/banner2.jpg)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Leviaran/ownpetapp/blob/main/banner1.jpg">
+   <img width="460" height="300" src="https://github.com/Leviaran/ownpetapp/blob/main/banner2.jpg">
+</p>
+
 My OwnPet app built in jetpack compose UI for Android Dev Challenge *Made with love ❤️ by Leviaran
 
 ## Architecture

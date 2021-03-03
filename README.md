@@ -21,7 +21,7 @@ The concept is to separate data presentation logic from business logic by moving
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
 - [Jetpack Compose Navigation](https://developer.android.com/jetpack/compose/navigation) - Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
-- [Coil Image Compose] (https://github.com/luca992/coil-composable) A simple library to load images and gifs into a Jetpack Compose Image composable using Coil.
+- [Coil Image Compose](https://github.com/luca992/coil-composable) A simple library to load images and gifs into a Jetpack Compose Image composable using Coil.
 
 ## License 🔖
 

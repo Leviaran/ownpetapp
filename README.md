@@ -1,8 +1,8 @@
 # Ownpet App
 
 <p align="center">
-  <img width="420" height="980" src="https://github.com/Leviaran/ownpetapp/blob/main/banner1.jpg">
-   <img width="420" height="980" src="https://github.com/Leviaran/ownpetapp/blob/main/banner2.jpg">
+  <img width="420" height="780" src="https://github.com/Leviaran/ownpetapp/blob/main/banner1.jpg">
+   <img width="420" height="780" src="https://github.com/Leviaran/ownpetapp/blob/main/banner2.jpg">
 </p>
 
 My OwnPet app built in jetpack compose UI for Android Dev Challenge *Made with love ❤️ by Leviaran

@@ -1,4 +1,4 @@
-# Ownpetapp
+# Ownpet App
 My OwnPet app built in jetpack compose UI for Android Dev Challenge *Made with love ❤️ by Leviaran
 
 ## Architecture
